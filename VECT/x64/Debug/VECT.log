@@ -1,0 +1,8 @@
+﻿  VECT.cpp
+D:\C++\VECT\VECT\VECT.cpp(79,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\VECT\VECT\VECT.cpp(80,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\VECT\VECT\VECT.cpp(81,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\VECT\VECT\VECT.cpp(87,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\VECT\VECT\VECT.cpp(88,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C++\VECT\VECT\VECT.cpp(89,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  VECT.vcxproj -> D:\C++\VECT\x64\Debug\VECT.exe
